@@ -1,0 +1,25 @@
+1. Given a string of characters, determine if it is a palindrome or not | (ABABA - palindrome / BABA - not palindrome)
+
+2. Drawing a staircase structure - given the required height, output a staircase as shown in the example | (Given n = 6, the output should be:
+                                                                                                         #
+                                                                                                         ##
+                                                                                                         ###
+                                                                                                         ####
+                                                                                                         #####
+                                                                                                         ######)
+
+3. Given an array of floating point numbers, inverse the elements of the array
+
+4. Given an array of integers, implement the BubbleSort algorithm for sorting the elements of the array
+
+5. Given an array of integers, determine the sum of odd numbers and the amount of even numbers
+
+6. Given an integer n, determine the number pi with an error less than n decimal places
+
+7. Write a program that will check if a two-dimensional arrays is magical square or not
+
+8. Given an integer n, determine all prime numbers smaller than n
+
+9. Given an integer n, determine all friendly number pairs smaller than n
+
+10. Write a program that outputs the next k leap years
